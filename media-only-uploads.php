@@ -1,7 +1,7 @@
 <?php 
 /*
 Plugin Name: Media Only Uploads
-Plugin URI: https://riyadarefin.com
+Plugin URI: http://riyadarefin.com
 Description: Restrict uploads to common Media file types only (images: jpg, gif, png | videos: wmv, avi, mpeg, mp4, mkv)
 Author: Riyad Arefin
 Author URI: http://riyadarefin.com
